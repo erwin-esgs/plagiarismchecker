@@ -1,0 +1,45 @@
+	body, input, select {
+		font-family: "Raleway", Arial, Helvetica, sans-serif;
+		font-size: 14pt;
+		font-weight: 300;
+		letter-spacing: 0.1em;
+		
+	}
+	textarea {
+		position:relative;
+		-moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+		border-radius: 1;
+		border: none;
+		border: solid 1px;
+		color: inherit;
+		display: block;
+		outline: 0;
+		padding: 0 1em;
+		text-decoration: none;
+		left:10%;
+	}
+	h2 {
+		width: 100%;
+		text-align:center;
+		}
+	body{
+		height: 100%;
+		 width: 100%;
+          margin: 0;
+		background-color: #dedede;
+	}
+	
+	.wrapper {
+		position:relative;
+			height: 80%;
+		 width: 80%;
+		 left:10%;
+		background-color: yellow;
+	}
+	.inner {
+
+
+	}
